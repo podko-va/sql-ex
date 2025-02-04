@@ -7,7 +7,13 @@
 
 Каждое решение сохраняется в файле с номером задачи:
 
-sql-ex-solutions/ │── 001.sql # Решение задачи №1 │── 002.sql # Решение задачи №2 │── 003.sql # Решение задачи №3 │── 010.sql # Решение задачи №10 │── ... │── README.md # Описание репозитория
+sql-ex-solutions/ 
+   │── 001.sql # Решение задачи №1 
+   │── 002.sql # Решение задачи №2 
+   │── 003.sql # Решение задачи №3 
+   │── 010.sql # Решение задачи №10 
+   │── ... 
+README.md # Описание репозитория
 
 bash
 Copy
@@ -17,8 +23,8 @@ Edit
 
 1. **Клонировать репозиторий**:  
    ```sh
-   git clone https://github.com/yourusername/sql-ex-solutions.git
-   cd sql-ex-solutions
+   git clone https://github.com/podko-va/sql-ex.git
+   cd sql-ex
 Открыть нужный файл (например, задачу №10):
 
 sh
